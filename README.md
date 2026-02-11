@@ -1,16 +1,58 @@
-# React + Vite
+# Portfolio Website 📂
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+私のポートフォリオサイトのリポジトリです。
+React と Tailwind CSS を使用して作成しており、これまでの制作物や経歴、スキルセットをまとめています。
 
-Currently, two official plugins are available:
+👉 Live Demo: https://hayashunkus.github.io/Portfolio/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## ✨ About Me
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+速水 舜一朗 (Shunichiro Hayamizu)
 
-## Expanding the ESLint configuration
+Role: 大学3年生 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+University: 名古屋工業大学 工学部 社会工学科 経営システム分野
+
+Location: Aichi, Japan
+
+Interests: Web Development, AI/Image Processing, Swimming
+
+水泳部・プログラミング部・ボルダリングサークルなどで幅広く活動しながら、Web開発や画像処理を用いたインタラクティブなゲーム制作に取り組んでいます。
+
+## 🛠️ Technical Skills
+
+### Web Development
+HTML, CSS, JavaScript, Firebase, React
+
+### Languages & AI
+Java, Python, Pygame, MediaPipe, OpenCV
+
+### Tools
+Git / GitHub", "VS Code", "Visual Studio 2022
+
+## 🚀 Projects
+
+ポートフォリオサイト内で紹介している主なプロジェクトです。
+
+### 🏊 Vswim
+
+工大祭出展作品。競泳ダービー、連打ダッシュなどができる体験型ゲーム。
+HTML, CSS, JavaScript
+
+### ✋ ICE Ascent with hands
+
+骨格検知を用いたボルダリング＆格闘ゲーム。
+Python, Pygame, MediaPipe, OpenCV
+
+### 🌝 Smile BINGO
+
+表情の点数化を組み合わせた新しいビンゴゲーム。
+HTML, CSS, JavaScript, Firebase
+
+## 📬 Contact
+
+Email: hayashunkus55@gmail.com
+GitHub: https://github.com/hayashunkus
+
+© 2026 Shunichiro Hayamizu
