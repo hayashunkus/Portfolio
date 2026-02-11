@@ -40,21 +40,21 @@ Git / GitHub", "VS Code", "Visual Studio 2022
 工大祭出展作品。競泳ダービー、連打ダッシュなどができる体験型ゲーム。
 HTML, CSS, JavaScript
 
-Demo:[https://hayashunkus.github.io/Vswim/](https://hayashunkus.github.io/Vswim/)
+Demo:[Vswim](https://hayashunkus.github.io/Vswim/)
 
 ### ✋ ICE Ascent with hands
 
 骨格検知を用いたボルダリング＆格闘ゲーム。
 Python, Pygame, MediaPipe, OpenCV
 
-Demo:[text](https://protopedia.net/prototyper/hayashun2488)
+Demo:[Protopedia](https://protopedia.net/prototyper/hayashun2488)
 
 ### 🌝 Smile BINGO
 
 表情の点数化を組み合わせた新しいビンゴゲーム。
 HTML, CSS, JavaScript, Firebase
 
-Demo:[text](https://hayashunkus.github.io/bingoAR/)
+Demo:[Smile BINGO](https://hayashunkus.github.io/bingoAR/)
 
 ## 📬 Contact
 
